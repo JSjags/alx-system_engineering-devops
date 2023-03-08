@@ -3,3 +3,4 @@
 2-bring_me_home: changes the working directory to the user’s home directory.
 3-listfiles: lists the contents of a directory in a long format.
 4-listmorefiles: lists all contents including hidden files of a directory in a long format.
+5-listfilesdigitonly: lists all contents with User-ID and Group-ID including hidden files of a directory in a long format.
