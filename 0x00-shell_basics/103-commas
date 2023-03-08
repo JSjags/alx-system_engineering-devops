@@ -1,3 +1,2 @@
 #!/bin/bash
-{ ls -1a -v | sed 's/$/, /'; echo; } | tr -d '\n'
-'
+ls -a | sort -d | sed -e 's/\n/, /g' -e 's/,$/\n/'
