@@ -1,5 +1,2 @@
 #!/bin/bash
-ls -lcd
-cd ..
-ls -la
-ls -la /boot
+ls -la ./ ../ /boot
