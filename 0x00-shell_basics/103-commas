@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m | sort -d | sed -e 's/\n/, /g'
+ls -a -m  | sort -d | sed -e 's/\n/, /g' -e 's/,$/\n/'
