@@ -20,3 +20,5 @@ Adds execution permission to the owner, the group owner and the other users, to 
 Sets permission only for others.
 ## 9-John_Doe
 Sets the mode of the file hello to -rwxr-x-wx.
+## 10-mirror_permissions
+Sets the mode of the file hello the same as olleh’s mode.
